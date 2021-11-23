@@ -1,10 +1,10 @@
-# Catálago de Fones Bluetooth
+# Catálogo de Fones Bluetooth
 Inicialmente eu criei os arquivos base do React Native e organizei as bibliotecas necessárias para o desenvolvimento do projeto. 
 
-Após a instalação das bibliotecas eu comecei o projeto organizando os arquivos utilizados para a navegação, com a página "Home", a página "Details" que será utilizada para detalhar o produto que foi escolhido e a página bluetooth que traz uma explicação mais detalhada da teconologia.
+Após a instalação das bibliotecas eu comecei o projeto organizando os arquivos utilizados para a navegação, com a página "Home", a página "Details" que será utilizada para detalhar o produto que foi escolhido e a página bluetooth que traz uma explicação mais detalhada da tecnologia.
 
 ## Página Home
-A ideia para a criação para a página "Home" era adicionar um resumo da explicação sobre a tecnologia bluetooth e as opções de fones com essa tecnologia. Para a área da explicação sobre o bluetooth a ideia inicial foi de colocar a imagem do logo, abaixo o resumo e um botão que iria direcionar para a página bluetooth. Já na área do catálago dos fones a ideia era usar um flatlist para fazer um grid e facilitar o trabalho, mas durante a execução encontrei alguns problemas em relação aos itens clicáveis e desisti por julgar que provavelmente não conseguiria entregar o projeto completo se continuasse insistindo nessa ideia. 
+A ideia para a criação para a página "Home" era adicionar um resumo da explicação sobre a tecnologia bluetooth e as opções de fones com essa tecnologia. Para a área da explicação sobre o bluetooth a ideia inicial foi de colocar a imagem do logo, abaixo o resumo e um botão que iria direcionar para a página bluetooth. Já na área do catálogo dos fones a ideia era usar um flatlist para fazer um grid e facilitar o trabalho, mas durante a execução encontrei alguns problemas em relação aos itens clicáveis e desisti por julgar que provavelmente não conseguiria entregar o projeto completo se continuasse insistindo nessa ideia. 
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83174653/142953373-bc803802-8471-4ef5-b8fd-6f472d909a59.jpg" width="200px" />
@@ -31,7 +31,7 @@ Depois de organizar todos os arquivos dos produtos fiz uma melhoria em relação
 </div>
 
 ## Página Bluetooth
-Na página "Bluetooth" foi colocado os textos explicativos sobre a tecnologia.
+Na página "Bluetooth" foram colocados textos explicativos sobre a tecnologia.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83174653/142955025-d1c3e2cc-fd36-4cf0-a511-5111126f4102.jpg" width="200px" />
@@ -40,9 +40,9 @@ Na página "Bluetooth" foi colocado os textos explicativos sobre a tecnologia.
 
 
 ## Página dos Produtos
-Na pasta "Details" foram colocados as pasta respectivas para cada produto, contendo o arquivo index.js e o styles.js. 
+Na pasta "Details" foram colocados as pastas respectivas para cada produto, contendo o arquivo index.js e o styles.js. 
 
-Basicamente todos os arquivos dos produtos possuem a mesma estrutura, mudando somente o conteúdo. No inicia a foto referente ao produto, abaixo vem seu nome e o preço atual, seguido das cores disponíveis. Foi feita duas áreas, uma para a descrição do produto e a outra para a ficha tecnica.
+Basicamente todos os arquivos dos produtos possuem a mesma estrutura, mudando somente o conteúdo. No início a foto referente ao produto, abaixo vem seu nome e o preço atual, seguido das cores disponíveis. Foi feita duas áreas, uma para a descrição do produto e a outra para a ficha técnica.
 
 <div align="center">
 <img src="https://user-images.githubusercontent.com/83174653/142954913-40fa2b06-6b8d-4922-9926-3ae520d8f7b8.jpg" width="200px" />
